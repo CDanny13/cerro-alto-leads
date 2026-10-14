@@ -1,0 +1,18 @@
+{
+  "event_id": "evt_01JB7Q3M2X4K8R9T5W6Y",
+  "event_type": "lead.created",
+  "created_at": "2026-11-03T14:22:05Z",
+  "source": {
+    "platform": "instagram",
+    "campaign": "Sonrisa Blanca",
+    "form_id": "frm_sb_2026q4"
+  },
+  "lead": {
+    "full_name": "Carla Mendoza",
+    "phone": "0991234567",
+    "email": "carla.mendoza@example.com",
+    "city": "Quito",
+    "service_interest": "Blanqueamiento",
+    "message": "Hola, quisiera agendar un blanqueamiento esta semana. ¿Tienen turno el jueves?"
+  }
+}

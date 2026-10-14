@@ -1,0 +1,18 @@
+{
+  "event_id": "evt_01JB7R2C8V1W3X5Y7Z9A1C",
+  "event_type": "lead.created",
+  "created_at": "2026-11-03T15:02:11Z",
+  "source": {
+    "platform": "instagram",
+    "campaign": "Ortodoncia sin Excusas",
+    "form_id": "frm_ose_2026q4"
+  },
+  "lead": {
+    "full_name": "João Pedro Almeida",
+    "phone": "+1 (305) 555-0142",
+    "email": "joao.almeida@example.com",
+    "city": "Quito",
+    "service_interest": "Ortodoncia",
+    "message": "Olá! Estou morando em Quito há pouco tempo. Quanto custa o aparelho? Só estou pesquisando por enquanto."
+  }
+}

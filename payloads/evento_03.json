@@ -1,0 +1,18 @@
+{
+  "event_id": "evt_01JB7Q9TQ0N3D5F7H9K2MB",
+  "event_type": "lead.created",
+  "created_at": "2026-11-03T14:31:40Z",
+  "source": {
+    "platform": "facebook",
+    "campaign": "Sonrisa Blanca",
+    "form_id": "frm_sb_2026q4"
+  },
+  "lead": {
+    "full_name": "carla mendoza",
+    "phone": "+593 99 123 4567",
+    "email": "Carla.Mendoza@example.com ",
+    "city": "quito",
+    "service_interest": "Combo limpieza + blanqueamiento",
+    "message": "Perdón, llené otra vez el formulario. ¿Me confirman lo del jueves?"
+  }
+}

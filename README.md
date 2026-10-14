@@ -10,6 +10,7 @@ Repositorio base de la **Parte A** de la prueba técnica de INVERS. Haz un **for
 README.md        # reemplázalo por el tuyo: cómo replicar tu sistema paso a paso
 .env.example     # las variables que necesita tu sistema, sin valores reales
 payloads/        # los 10 eventos de ejemplo del conector
+enviar_payloads.py  # los envía a tu webhook: python3 enviar_payloads.py <URL>
 parte-a/         # tu sistema: workflows exportados o código, prompts y tests
 ```
 
